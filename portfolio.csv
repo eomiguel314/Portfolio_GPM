@@ -1,0 +1,29 @@
+section,key,title,description,image,link,skills
+profile,name,Karllos Miguel,"",https://i1.sndcdn.com/artworks-000232676344-vz9g30-t500x500.jpg,,
+profile,role,"Front-End && Maker","",,,
+
+about,about_me,"👋 Sobre Mim","Olá! Sou Karllos Miguel, um desenvolveddor Front-End apaixonado por criar experiências digitais incríveis. Com habilidades em HTML, CSS, JavaScript e frameworks modernos, estou sempre buscando aprender e inovar. Além disso, sou um entusiasta do movimento Maker, adorando trabalhar em projetos DIY e explorar novas tecnologias.",,,
+
+social,GitHub,,,,https://github.com/eomiguel314,fab fa-github
+social,LinkedIn,,,,https://www.linkedin.com/in/karllos-miguel-732361238//,fab fa-linkedin
+social,Instagram,,,,https://instagram.com/xykk.miguel,fab fa-instagram
+social,Facebook,,,,https://facebook.com/seuusuario,fab fa-facebook
+
+skill,Front-End,,,,,HTML|CSS|JavaScript|React|Vue.js
+skill,Design,,,,,Figma|Adobe XD|Sketch
+skill,Arduino,,,,,C/C++|Sensors|Actuators|IoT
+
+project,Gestao de Membros GPM,Gestao de Membros GPM,"Desenvolvimento de um sistema de gerenciamento para membros do Grupo de pesquisa em Mecatrônica",https://gpmweb.vercel.app/assets/logo-DibBA87T.png,#,
+project,Seguidor de Linha,Seguidor de Linha,"Desenvolvimento de um carrinho seguidor de linha pra participar da OBR 2025",https://www.blogdarobotica.com/wp-content/uploads/2024/08/22_Robo-seguidor-de-linha-1024x576.png,#,
+project,Drone,Drone,"Ainda a fazer...",https://hackster.imgix.net/uploads/attachments/1436386/_NSGCNlTMxG.blob?auto=compress&w=900&h=675&fit=min&fm=jpg,#,
+
+certificate,Certificado 1,Arduino no Verão 2022,,,https://www.even3.com.br/documentos/imprimir?i=7414808.5678221.9.7.565010423099673&cc=CE56A677-233E-4A17-BED9-54EEF3F52725,
+certificate,Certificado 2,Automação no Verão 2023,,,https://via.placeholder.com/150,
+
+extension,Extensao 1,SNCT 2025,"Semana Nacional de Ciência e Tecnologia 2025",https://www.uema.br/wp-content/uploads/2023/10/logo_snct_2023_horizontal.png,#,
+extension,Extensao 2,RRS 2026,"Rondônia Rural Show",https://agroagenda.agr.br/wp-content/uploads/2024/03/Design-sem-nome-3-1070x650.png,#,
+extension,Extensao 3,SNCT 2024,"Semana Nacional de Ciência e Tecnologia 2024",https://www.uema.br/wp-content/uploads/2023/10/logo_snct_2023_horizontal.png,#,
+
+recognition,bolsa_ic,"Bolsa de Iniciação Científica","Concedida pelo CNPq para pesquisa em automação robótica",,https://www.cnpq.br,
+recognition,hackathon2023,"1º Lugar em Hackathon","Competição nacional de robótica aplicada em 2023",,,
+recognition,mencao_honrosa,"Medalha Meritum 2025 OBR Maker","Reconhecimento pela estrutura na OBR 2025",,,
