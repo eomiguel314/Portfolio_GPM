@@ -240,9 +240,9 @@ def main():
 
         with st.expander("📞 Contatos"):
             st.markdown("""
-                <p><i class="fas fa-map-marker-alt"></i> Porto Velho</p>
-                <p><i class="fas fa-phone-alt"></i> +55 69 99929-0423</p>
-                <p><i class="fas fa-envelope-open-text"></i> k.migueloliveira2009@gmail.com</p>
+                <p>📍 Porto Velho</p>
+                <p>☎️ +55 69 99929-0423</p>
+                <p>✉️  k.migueloliveira2009@gmail.com</p>
             """, unsafe_allow_html=True)
 
         social_links()
@@ -288,3 +288,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
